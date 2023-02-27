@@ -1,14 +1,14 @@
-# Board Lord
+# Automated Checkers
 
 Board Lord is a Python program that implements a command-line interface for playing checkers. It allows two players to take turns moving pieces on a standard 8x8 checkerboard until one player has no moves left, or all of their pieces have been captured. 
 
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Run the `board_lord.py` script using Python from the command line:
+2. Run the `checker_data_generator.py` script using Python from the command line:
 
 ```shell
-python board_lord.py
+python checker_data_generator.py
 ```
 
 ### Extended Usage
@@ -45,7 +45,3 @@ options:
 - Checker: Defines a checkers piece.
 - Board: Defines the checkers board and game mechanics.
 - CheckersGame: Implements the gameplay loop.
-
-### Acknowledgements
-
-The `Board Lord` program was created by [OpenAI](https://openai.com/).
